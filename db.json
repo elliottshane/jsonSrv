@@ -1,0 +1,22 @@
+{
+    "appt" : {
+      "numDays": 90,
+      "appts": [
+        {
+          "id": "8098098098",
+          "dateTime": 1592608467,
+          "Location": "Eye"
+        },
+        {
+          "id": "8098098098",
+          "dateTime": 1592608467,
+          "Location": "Eye"
+        }
+    ]
+},
+    "cnx":{
+        
+            "result": "ok"
+        
+    }
+}
